@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 400 400" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="77.0859" x2="321.858" y1="194.992" y2="194.992">
+<stop offset="0" stop-color="#ffc7e7"/>
+<stop offset="1" stop-color="#ffe193"/>
+</linearGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="68.9147" id="Filter" width="68.2788" x="292.487" y="285.817">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="4.06662"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="68.9147" id="Filter_2" width="68.2788" x="40.8855" y="59.7572">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="4.06662"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="49.3238" id="Filter_3" width="45.8414" x="288.365" y="279.41">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="4.06662"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="49.3238" id="Filter_4" width="45.8414" x="67.4449" y="85.7548">
+<feGaussianBlur in="SourceGraphic" result="Blur" stdDeviation="4.06662"/>
+</filter>
+</defs>
+<g id="Calque-1" vectornator:layerName="Calque 1">
+<path d="M248.31 341.528C246.943 338.795 266.385 331.919 268.444 331.377C281.136 328.037 335.184 311.788 328.68 292.274C323.053 275.393 283.17 275.91 269.609 281.125C265.304 282.781 242.738 292.875 244.316 287.615C249.897 269.012 267.336 256.825 281.756 245.683C298.697 232.591 314.569 217.648 328.68 201.421C336.496 192.432 355.323 173.34 348.148 158.99C333.166 129.026 309.058 166.003 296.232 176.129C288.772 182.018 280.405 186.876 272.77 192.602C264.945 198.471 256.94 203.701 248.975 209.242C248.417 209.63 236.704 216.273 236.995 216.563C240.761 220.329 259.363 195.41 260.623 193.767C269.985 181.555 283.246 172.36 291.906 159.988C299.402 149.279 302.45 137.576 308.379 126.376C310.882 121.648 316.936 102.984 313.704 99.7522C311.229 97.2772 308.661 97.9779 305.551 97.5891C303.795 97.3697 303.721 95.3843 301.723 95.2595C293.733 94.7601 291.661 99.3949 285.583 102.914C267.199 113.557 258.806 137.852 244.649 153.499C235.385 163.737 224.932 172.811 216.528 183.616C215.443 185.011 208.25 191.76 208.707 192.103C211.977 194.555 214.508 185.015 215.197 183.783C220.524 174.251 225.569 164.484 230.339 154.663C239.648 135.498 251.257 118.603 256.962 97.9218C259.867 87.3935 257.602 83.9826 249.807 78.7861C248.846 78.145 246.924 74.7928 245.98 74.6262C243.193 74.1344 240.775 77.246 238.326 78.1206C227.858 81.8591 230.585 80.8438 223.35 92.0979C210.29 112.414 199.828 135.564 185.578 154.996C178.37 164.825 171.382 173.598 167.108 184.282C166.916 184.761 165.111 185.459 165.111 185.613C165.111 186.668 167.585 182.998 167.607 182.951C168.291 181.486 168.777 179.934 169.437 178.458C171.864 173.034 174.876 167.771 177.591 162.484C179.957 157.876 181.901 153.052 184.413 148.507C187.382 143.135 198.11 108.765 194.397 102.082C193.482 100.435 190.065 100.788 188.407 99.7522C187.699 99.3101 186.561 97.0899 185.911 97.0899C171.453 97.0899 163.241 122.617 157.457 131.534C135.661 165.137 106.706 207.753 106.706 248.844" fill="none" opacity="0" stroke="#007aff" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Courbe 1"/>
+<path d="M107.88 248.34C102.574 251.737 105.544 263.993 106.11 269.327C108.638 293.105 120.445 309.117 137.997 324.733C173.929 356.701 220.205 356.156 260.955 330.064" fill="none" opacity="0" stroke="#007aff" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Courbe 2"/>
+<path d="M62.9062 118.729C48.3525 143.141 29.422 178.456 45.8826 206.933" fill="none" opacity="0" stroke="#007aff" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Courbe 3"/>
+<path d="M87.3664 138.128C77.7287 160.106 71.3203 182.567 69.0321 206.472" fill="none" opacity="0" stroke="#007aff" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Courbe 4"/>
+<path d="M317.998 351.199C322.913 350.047 332.007 351.1 336.107 348.474C347.527 341.162 347.649 319.122 353.824 308.194" fill="none" opacity="0" stroke="#007aff" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Courbe 5"/>
+<path d="M232.222 312.248C232.222 312.248 316.51 291.531 289.414 269.476C289.414 269.476 263.372 262.74 234.326 273.596C234.326 273.596 189.463 288.736 222.884 260.687C222.884 260.687 343.174 170.029 318.529 143.917C318.529 143.917 306.207 124.26 280.095 151.839C280.095 151.839 253.397 178.244 230.219 189.1C230.219 189.1 255.076 158.422 279.508 111.351C279.508 111.351 289.728 84.6298 270.751 86.7505C270.751 86.7505 269.037 76.9016 213.202 147.145C213.202 147.145 200.586 161.814 194.425 164.161C194.425 164.161 227.653 87.3721 227.212 77.6554C227.212 77.6554 223.415 54.9635 202.64 68.8096C202.64 68.8096 185.917 94.3346 161.859 135.116C161.859 135.116 174.553 82.8847 160.495 81.0319C160.495 81.0319 153.351 77.3179 136.041 106.364C136.041 106.364 100.834 156.24 82.6436 212.864C82.6436 212.864 57.6455 262.29 113.683 308.939C113.683 308.939 145.379 344.228 232.222 312.248Z" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Courbe 6"/>
+<path d="M43.9485 130.081C43.9485 105.548 56.496 84.5711 80.9816 80.2501" fill="none" opacity="0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Courbe 10"/>
+<path d="M348.417 298.165C346.175 314.191 338.74 327.928 326.807 335.677C320.649 339.677 313.294 342.081 304.835 342.383" fill="none" filter="url(#Filter)" opacity="1" stroke="#cc9aff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.36379" vectornator:blur="8.13324" vectornator:layerName="Courbe 11"/>
+<path d="M53.2339 116.324C55.4766 100.298 62.9113 86.5606 74.8437 78.8111C81.0017 74.8118 88.3576 72.4072 96.8159 72.1057" fill="none" filter="url(#Filter_2)" opacity="1" stroke="#cc9aff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.36379" vectornator:blur="8.13324" vectornator:layerName="Courbe 7"/>
+<path d="M73.0848 132.532C75.4191 120.861 78.8683 110.596 89.423 104.485" fill="none" opacity="0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10" vectornator:layerName="Courbe 9"/>
+<path d="M321.858 291.758C320.181 295.963 318.383 299.939 316.166 303.478C312.554 309.242 307.831 313.845 300.713 316.385" fill="none" filter="url(#Filter_3)" opacity="1" stroke="#cc9aff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.36379" vectornator:blur="8.13324" vectornator:layerName="Courbe 12"/>
+<path d="M79.7934 122.73C81.47 118.525 83.2684 114.549 85.4854 111.011C89.0974 105.246 93.8204 100.643 100.938 98.1033" fill="none" filter="url(#Filter_4)" opacity="1" stroke="#cc9aff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.36379" vectornator:blur="8.13324" vectornator:layerName="Courbe 8"/>
+</g>
+</svg>
